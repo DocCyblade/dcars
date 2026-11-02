@@ -1,0 +1,21 @@
+{
+  "name": "dcars",
+  "version": "0.0.0",
+  "description": "DocCyblade's Actual Receipt Scanner",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocCyblade/dcars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DocCyblade/dcars/issues"
+  },
+  "homepage": "https://github.com/DocCyblade/dcars#readme",
+  "scripts": {
+    "changeset": "changeset"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^3.0.3"
+  }
+}
